@@ -81,12 +81,4 @@ El objetivo de esta actividad es aplicar técnicas de análisis de requisitos me
 
 ---
 
-## 📅 Fecha límite de entrega
 
-🗓️ **Viernes, 10 de mayo de 2025 a las 23:59h**
-
----
-
-## 📧 Contacto
-
-Profesor: [profeinformatica101](https://github.com/profeinformatica101)
